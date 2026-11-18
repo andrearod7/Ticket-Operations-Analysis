@@ -2,6 +2,8 @@
 
 <img width="2684" height="2482" alt="Dashboard" src="https://github.com/user-attachments/assets/b706a564-7b21-4778-8b99-5da402ae07b6" />
 
+Tools: Excel
+
 ## Project Overview
 
 This project analyzes an operational ticket management process to evaluate whether the team's processing capacity was sufficient to keep up with incoming ticket demand during the analysis period.
